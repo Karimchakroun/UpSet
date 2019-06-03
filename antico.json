@@ -1,0 +1,13 @@
+﻿{
+	"file": "https://doc-04-2g-docs.googleusercontent.com/docs/securesc/uot36qoto0krq6239l27gu89mbmbqm53/pota3fv2t63vru4390m4t32ahj0bj4ok/1559556000000/04304830815352601794/04304830815352601794/1VSxHTRB1hNvvCfy4trmN_qA6X1OeKbSZ?e=download",
+	"name": "Antithrombotiques",
+	"header": 0,
+	"separator": ";",
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"skip": 0,
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 5445 }
+	]
+}
