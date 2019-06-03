@@ -8,6 +8,6 @@
 	],
 	"skip": 0,
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 5445 }
+		{ "format": "binary", "start": 1, "end": 4 }
 	]
 }
